@@ -1,6 +1,6 @@
 # Felipe R. G. Ribeiro
 👋 Hi there
-## Who am i
+## Who i'm:
 - 📚 Graduated in Electrical Engineering
 - 🔍 Research area: Digital Signal Processing, Digital Image Processing, Artificial Neural Networks, GameDev.
 - ❗ Learning/improving: C++, C#, Python, Unity3D.
