@@ -6,4 +6,6 @@
 - ❗ Learning/improving: C++, C#, Python, Unity3D.
 - 🚴 I ride bike in spare time
 - 🎮 As GameDev, I love good games
-- 📫 Contact me at felipe.g.ribeiro@gmail.com or twitter
+- 📫 Contact me at felipe.g.ribeiro@gmail.com
+- ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) https://twitter.com/felipergribeiro
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/felipe-ribeiro-799865239/
