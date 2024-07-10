@@ -2,6 +2,7 @@
 👋 Hi there
 ## Who i'm:
 - 📚 Graduated in Electrical Engineering
+- :computer: Master's degree in Digital Signal Processing
 - 🔍 Research area: Digital Signal Processing, Digital Image Processing, Artificial Neural Networks, GameDev.
 - ❗ Learning/improving: C++, C#, Python, Unity3D.
 - 🚴 I ride bike in spare time
